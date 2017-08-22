@@ -1,0 +1,42 @@
+.header {
+     padding: 15px;
+       }
+
+.bg-r{
+	    padding: 25px;	
+		  background-color: #1e7cce; /* blue*/
+      color: #ffffff;
+        }
+
+.bg-rw{
+      padding-top: 300px; 
+      padding-bottom: 110px; 
+      
+      color: #ffffff;
+        }
+
+ .bg-3 { 
+       background-color: #1e7cce; /* blue*/
+       color: #ffffff;
+       padding: 30px;
+    }
+ 
+
+       
+    input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+	#mail{
+	 	border-radius: 5px;
+		 background-color: #1e7cce; 
+		 border: 1px;
+		 border-style: solid;
+     border-color: #ffffff;
+	}
+
